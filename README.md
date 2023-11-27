@@ -12,4 +12,3 @@
 
 1. Installation: `npm install`
 2. Run: `npm start`
-git
