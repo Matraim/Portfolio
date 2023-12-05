@@ -39,11 +39,11 @@ function NavBar() {
             updateExpanded(expand ? false : 'expanded');
           }}
         >
-          {/* This span is burger menu */}
+          {/* burger menu */}
           <span></span>
           <span></span>
           <span></span>
-          {/* This span is burger menu */}
+          {/* burger menu */}
         </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
