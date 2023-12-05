@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.af071137.css",
+    "main.js": "/Portfolio/static/js/main.1ca8d9bb.js",
+    "static/js/787.5c0b2d12.chunk.js": "/Portfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/pro2.png": "/Portfolio/static/media/pro2.622760734a04cfda322f.png",
+    "static/media/pro4.png": "/Portfolio/static/media/pro4.f512d7985e2e30ddf97c.png",
+    "static/media/pro3.png": "/Portfolio/static/media/pro3.74cde59b6aa872980bd3.png",
+    "static/media/pro1.webp": "/Portfolio/static/media/pro1.0db6214f6b3173cbc6cd.webp",
+    "static/media/webdev.svg": "/Portfolio/static/media/webdev.1f92353de0c0e5bf5e2ceff812381c4d.svg",
+    "static/media/full-stack-web-developer.svg": "/Portfolio/static/media/full-stack-web-developer.0c512b3012a2654acc8490e12faa768e.svg",
+    "static/media/isometric-template-website-banner-advertising-resource-online-books-with-female-reading-app-mobile-phone-isolated-white_241107-411.avif": "/Portfolio/static/media/isometric-template-website-banner-advertising-resource-online-books-with-female-reading-app-mobile-phone-isolated-white_241107-411.5e5e5a62840155ba17e5.avif",
+    "static/media/pro6.jpeg": "/Portfolio/static/media/pro6.b6454308306b656e31f9.jpeg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5738116ad4ba6bff1aea7e61e652df06.svg",
+    "static/media/Spinner-1s-194px.svg": "/Portfolio/static/media/Spinner-1s-194px.aadb80a9614715e67636.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.af071137.css.map": "/Portfolio/static/css/main.af071137.css.map",
+    "main.1ca8d9bb.js.map": "/Portfolio/static/js/main.1ca8d9bb.js.map",
+    "787.5c0b2d12.chunk.js.map": "/Portfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af071137.css",
+    "static/js/main.1ca8d9bb.js"
+  ]
+}
