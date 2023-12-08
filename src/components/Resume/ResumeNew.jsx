@@ -5,6 +5,7 @@ import Particle from '../Particle';
 import { AiOutlineDownload } from 'react-icons/ai';
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
+// import ResumeImg from '../../Assets/resume.png';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 function ResumeNew() {
@@ -30,6 +31,11 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
+          {/* <img
+            src={ResumeImg}
+            alt="Resume"
+            style={{ width: '23%', height: 'auto' }}
+          /> */}
           <Document className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
