@@ -23,7 +23,7 @@ Over the years, I've accumulated a diverse set of skills that enable me to write
 
 ## Projects
 
-I've worked on various projects, each contributing to my skill set and allowing me to tackle new challenges. Some notable projects include [Project 1], [Project 2], and [Project 3].
+I've worked on various projects, each contributing to my skill set and allowing me to tackle new challenges.
 
 ## Let's Connect
 
