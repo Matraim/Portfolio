@@ -30,6 +30,6 @@ I've worked on various projects, each contributing to my skill set and allowing 
 Feel free to explore my repositories here on GitHub, and don't hesitate to reach out if you have any questions or collaboration opportunities. Let's create something amazing together!
 
 - LinkedIn: [Matraim Nurmаtov](#your-linkedin-profile)
-- Email: your.email@example.com
+- Email: [matraim.kg@gmail.com](mailto:matraim.kg@gmail.com)
 
 Looking forward to connecting with fellow developers and innovators!
