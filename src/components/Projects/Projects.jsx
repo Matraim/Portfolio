@@ -37,7 +37,7 @@ function Projects() {
               imgPath={Innovation}
               isBlog={false}
               title="The contribution"
-              description="Contribution activity The contribution activity section includes a detailed timeline of your work, including commits you've made or co-authored"
+              description="Contribution activity The contribution activity section includes a detailed timeline of your work, including commits you've made or co-authored created with Typescript"
               ghLink="https://github.com/Matraim/Innovation-Digital"
               demoLink="https://innovation-digital-topaz.vercel.app/"
             />
