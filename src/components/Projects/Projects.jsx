@@ -2,12 +2,13 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import ProjectCard from './ProjectCards';
 import Particle from '../Particle';
-import orderfood from '../../Assets/Projects/pro1.webp';
-import weather from '../../Assets/Projects/pro2.png';
-import expenses from '../../Assets/Projects/pro3.png';
+import orderfood from '../../Assets/pro1.webp';
+import weather from '../../Assets/Projects/weatherapp.png';
+import expenses from '../../Assets/Projects/everhour-expenses.jpg';
 import bookLibrary from '../../Assets/Projects/isometric-template-website-banner-advertising-resource-online-books-with-female-reading-app-mobile-phone-isolated-white_241107-411.avif';
-import wordGame from '../../Assets/pro4.png';
+import Innovation from '../../Assets/Projects/innovation.png';
 import quizApp from '../../Assets/Projects/pro6.jpeg';
+import flowerStoreImg from '../../Assets/Projects/Снимок экрана 2023-12-30 в 23.51.07.png';
 
 function Projects() {
   return (
@@ -33,12 +34,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={wordGame}
+              imgPath={Innovation}
               isBlog={false}
-              title="Word-Game Ln Kyrgyz"
-              description="Создание слов: Система предлагает случайные буквы, из которых пользователь должен составить слова.  Постепенное усложнение задач по мере продвижения."
-              ghLink="https://github.com/Matraim/WordGameKyrgyz"
-              demoLink="https://matraim.github.io/WordGameKyrgyz/"
+              title="The contribution"
+              description="Contribution activity The contribution activity section includes a detailed timeline of your work, including commits you've made or co-authored"
+              ghLink="https://github.com/Matraim/Innovation-Digital"
+              demoLink="https://innovation-digital-topaz.vercel.app/"
             />
           </Col>
 
@@ -87,6 +88,16 @@ function Projects() {
               description="Книжное приложение Библиотека это современное приложение для чтения книг с удобным интерфейсом и широкими возможностями для организации и управления вашей литературной коллекцией."
               ghLink="https://github.com/Matraim/Book-Library-App"
               demoLink="https://matraim.github.io/Book-Library-App/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={flowerStoreImg}
+              isBlog={false}
+              title="Online store Bouquet.kg"
+              description="Онлайн-магазин Bouquet.kg - ваш цветочный рай! У нас вы найдете самые нежные букеты и стильные композиции для любого случая. Удивите своих близких и создайте атмосферу нежности с нашими эксклюзивными цветочными аранжировками. Закажите прямо сейчас и подарите радость с помощью Bouquet.kg!"
+              ghLink="https://github.com/Matraim/Bouquet.kg"
+              demoLink="https://bouquet-kg.vercel.app/"
             />
           </Col>
         </Row>
