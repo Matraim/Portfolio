@@ -10,6 +10,8 @@ import Innovation from '../../Assets/Projects/innovation.png';
 import quizApp from '../../Assets/Projects/pro6.jpeg';
 import flowerStoreImg from '../../Assets/Projects/Снимок экрана 2023-12-30 в 23.51.07.png';
 import bilingual from '../../Assets/Projects/blingual.png';
+import Finanalyst from '../../Assets/Projects/f.png';
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -108,6 +110,16 @@ function Projects() {
               description="Bilingual is a web service designed for creating and taking tests in two languages."
               ghLink="https://github.com/Nurtimax/bilingual"
               demoLink="https://bilingual-nextjs.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Finanalyst}
+              isBlog={false}
+              title="Finanalyst "
+              description="Finanlyst is a program designed to help users budget and manage their finances."
+              ghLink="https://github.com/Nurtimax/Finanalyst"
+              demoLink="https://finanalyst.vercel.app/"
             />
           </Col>
         </Row>
