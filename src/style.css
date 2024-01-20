@@ -265,19 +265,19 @@ button:focus {
 }
 
 .home-content {
-  padding: 9rem 0 2rem !important;
+  padding: 10rem 0 2rem !important;
   color: whitesmoke;
   text-align: left;
 }
 
 .heading {
   font-size: 2.4em !important;
-  padding-left: 50px !important;
+  padding-left: 13px !important;
 }
 
 .heading-name {
   font-size: 2.5em !important;
-  padding-left: 45px !important;
+  padding-left: 13px !important;
 }
 
 .main-name {
@@ -292,7 +292,7 @@ button:focus {
 
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #f20505 !important;
+  color: #057cf2 !important;
 }
 
 @media (max-width: 767px) {
