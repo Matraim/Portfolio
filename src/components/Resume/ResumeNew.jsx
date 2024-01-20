@@ -19,7 +19,13 @@ function ResumeNew() {
         <img
           src={imgPdf}
           alt="Matraim Nurmatov Resume"
-          style={{ maxWidth: '30rem' }}
+          style={{
+            maxWidth: '30rem',
+            width: '100%',
+            height: 'auto',
+            display: 'block',
+            margin: '0 auto',
+          }}
         />
 
         <Row
